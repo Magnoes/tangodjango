@@ -33,7 +33,7 @@ def populate():
 
     add_page(cat=frame_cat,
             title="Bottle",
-            url="http://flask.pocoo.org")
+            url="http://bottlepy.org/docs/dev/")
 
     add_page(cat=frame_cat,
             title="Flask",
